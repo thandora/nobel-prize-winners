@@ -14,7 +14,7 @@ To install the libraries and dependencies needed to run the notebook, run:
 
 ## Viewing File
 
-If you just want to view the analysis, you can directly view the notebook on `main.ipynb`.
+Actual analysis is found on the notebook `main.ipynb`.
 
 ## Author
 
