@@ -12,7 +12,7 @@ To install the libraries and dependencies needed to run the notebook, run:
 `pandas` - for data manipulation and computations.  
 `matplotlib`, `seaborn`, and `plotly` - for visualization of data insights.  
 
-## Viewing File
+## Viewing Study
 
 Actual analysis is found on the notebook `main.ipynb`.
 
